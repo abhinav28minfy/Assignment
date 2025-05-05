@@ -24,4 +24,10 @@ commit 2: changed words in line 4
 commit 3: changed words in line 3
 
 
+4. push request-> ![alt text](image-1.png)
+
+5. pull request-> ![alt text](image-2.png)
+
+!!Modeification to readme!!
+
 
