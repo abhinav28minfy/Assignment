@@ -32,4 +32,8 @@ commit 3: changed words in line 3
 
 6. branching(creating feature/update-readme + modifying readme)![alt text](image-3.png)
 
+7. pull request from "feature/update-readme" to main branch-> ![alt text](image-4.png)
+
+8. Review and merge the pull request -> ![alt text](image-5.png)
+
 
