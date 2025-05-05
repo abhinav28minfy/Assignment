@@ -30,4 +30,6 @@ commit 3: changed words in line 3
 
 !!Modeification to readme!!
 
+6. branching(creating feature/update-readme + modifying readme)![alt text](image-3.png)
+
 
